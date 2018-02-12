@@ -11,7 +11,6 @@
 ## Privacy
 
 ## Scalability
-1. Plasma: Scalable Autonomous Smart Contracts
 ### Sharding
 1. [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ) 
 2. [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649) by Hsiao-Wei Wang (Dec 27, 2017)
