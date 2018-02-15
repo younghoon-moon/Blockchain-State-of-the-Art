@@ -3,6 +3,10 @@
 ## Consensus Algorithms
 ### Proof of Work (PoW)
 ### Proof of Stake (PoS)
+1. [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+2. [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) by Vitalik Buterin (Dec 31, 2016)
+3. [Ethereum Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) by Jon Choi (Oct 22, 2017)
+4. [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae) by Tendermint Official Blog (Nov 17, 2017)
 ### PBFT and its variants
 ### Others (e.g. PoI, PoST)
 
