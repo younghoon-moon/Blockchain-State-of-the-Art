@@ -26,6 +26,7 @@
 ## Peer-to-peer Network
 
 ## Smart Contract
+1. [Nick Szabo's Essays, Papers, and Concise Tutorials](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/index.html) by Nick Szabo
 
 ## Cryptoasset Classification & Valuation
 
