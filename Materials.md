@@ -76,6 +76,7 @@
 - [The Token Classification Framework](https://medium.com/untitled-inc/the-token-classification-framework-290b518eaab6) by Thomas Euler (Jan 18, 2018)
 
 ## Governance & Meta-consensus
+- [Tezos: A Self-Amending Crypto-Ledger Position Paper](https://www.tezos.com/static/papers/position_paper.pdf) by Arthur and Kathleen Breitman (Aug 3, 2014)
 - [Funding the Evolution of Blockchains](https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481) by Fred Ehrsam (Aug 25, 2017)
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) by Fred Ehrsam (Nov 28, 2017)
 - [Against On-chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir (Dec 1, 2017)
