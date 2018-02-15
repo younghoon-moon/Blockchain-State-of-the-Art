@@ -86,6 +86,7 @@
 
 ## Other Related Fields
 ### Cryptography
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/) by Dan Boneh and Victor Shoup (last updated: Sep 2017)
 ### Game Theory
 ### Distributed Systems
 ### Virtual Machine
