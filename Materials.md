@@ -11,6 +11,8 @@
 - [Bitcoin](https://medium.com/opacity/bitcoin-1537e616a074) by Nassim Nicholas Taleb (Jan 22, 2018)
 - [Bitcoin Edge Tutorials](https://bitcoinedge.org/tutorials)
 ### Ethereum
+- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [Ethereum Yellowpaper](https://github.com/ethereum/yellowpaper)
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) by Preethi Kasireddy (Sep 27, 2017)
 ### Cardano
 ### IOTA
