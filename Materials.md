@@ -52,6 +52,7 @@
 - [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf) by Joseph Poon, Thaddeus Dryja (Jan 14, 2016)
 - [Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791/) by Aaron van Wirdum (May 31, 2016)
 - [Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution](https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800) by Jonald Fyookball (Jun 27, 2017)
+- [The Lightning Network](https://blog.bitmex.com/the-lightning-network/) by BitMEX Research (Jan 25, 2018)
 
 ## Inter-blockchain Protocols
 
