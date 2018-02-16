@@ -29,6 +29,7 @@
 - [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae) by Tendermint Official Blog (Nov 17, 2017)
 - [DFINITY White Paper: Our Consensus Algorithm](https://medium.com/dfinity/dfinity-white-paper-our-consensus-algorithm-a11adc0a054c) by Timo Hanke (Jan 25, 2018)
 ### PBFT and its variants
+- [Paxos Lecture (Raft User Study)](https://www.youtube.com/watch?v=JEpsBg0AO6o&t=1871s&list=LLre8TRULW2293T7wD0ZQu3g&index=5) by John Ousterhout, Diego Ongaro (Aug 14, 2013)
 ### Others (e.g. PoI, PoST)
 
 ## Cryptoeconomics & Incentive Design
