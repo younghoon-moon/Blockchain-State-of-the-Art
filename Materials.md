@@ -69,12 +69,16 @@
 - [Solidity and Smart Contracts Tutorial for Beginners](https://www.youtube.com/playlist?list=PLQeiVDgMaJcWnAZLElXKLZhS5a71Sxzw0) by Vlad Wulf (Apr 21, 2017)
 
 ## Cryptoasset Classification & Valuation
+### Tokens & Tokenization
+- [Token ERC Comparison for Fungible Tokens](http://blockchainers.org/index.php/2018/02/08/token-erc-comparison-for-fungible-tokens/) by Alexander Culum (Feb 8, 2018)
+### Cryptoasset Valuation
 - [On Token Value](https://thecontrol.co/on-token-value-e61b10b6175e) by Nick Tomaino (Aug 7, 2017)
 - [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7) by Chris Burniske (Sep 25, 2017)
 - [On Medium-of-Exchange Token Valuations](http://vitalik.ca/general/2017/10/17/moe.html) by Vitalik Buterin (Oct 17, 2017)
 - [An (Institutional) Investor’s Take on Cryptoassets](https://medium.com/john-pfeffer/an-institutional-investors-take-on-cryptoassets-690421158904) by John Pfeffer (Dec 30, 2017)
 - [Our Process for Evaluating New Tokens](https://thecontrol.co/our-process-for-evaluating-new-tokens-4627ed97f500) by Nick Tomaino (Jan 8, 2018)
 - [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by Ryan Selkis (Jan 11, 2018)
+### Cryptoasset Classification
 - [The Token Classification Framework](https://medium.com/untitled-inc/the-token-classification-framework-290b518eaab6) by Thomas Euler (Jan 18, 2018)
 
 ## Governance & Meta-consensus
