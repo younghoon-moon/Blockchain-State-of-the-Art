@@ -6,23 +6,25 @@
 ## Blockchain Platforms
 ### Bitcoin
 - [Bitcoin Resources](http://lopp.net/bitcoin.html) by Jameson Lopp
+- [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://medium.com/mit-security-seminar/eclipse-attacks-on-bitcoin-s-peer-to-peer-network-e0da797302c2) by Frank Wang (Oct 05, 2015) 
 - [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) by Arvind Narayanan, Jeremy Clark (Aug 29, 2017)
 - [What is a Bitcoin Merklized Abstract Syntax Tree (MAST)?](https://bitcointechtalk.com/what-is-a-bitcoin-merklized-abstract-syntax-tree-mast-33fdf2da5e2f) by David A. Harding (Oct 12, 2017)
 - [Bitcoin](https://medium.com/opacity/bitcoin-1537e616a074) by Nassim Nicholas Taleb (Jan 22, 2018)
 - [Bitcoin Edge Tutorials](https://bitcoinedge.org/tutorials)
-- [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://medium.com/mit-security-seminar/eclipse-attacks-on-bitcoin-s-peer-to-peer-network-e0da797302c2) by Frank Wang (Oct 05, 2015) 
+
 ### Ethereum
 - [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [Ethereum Yellowpaper](https://github.com/ethereum/yellowpaper)
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) by Preethi Kasireddy (Sep 27, 2017)
 ### Cardano
 ### IOTA
-- [Our response to "A Cryptocurrency Without a Blockchain Has Been Built to Outperform Bitcoin"](https://www.media.mit.edu/posts/iota-response/) by Joi Ito (Dec 20, 2017)
+- [IOTA - Full Node Incentive](http://www.tangleblog.com/2017/06/27/incentive-run-fullnode-iota/) by Limo (Jun 27, 2017)
+- [Everything You Didn't Know About IOTA](https://medium.com/@mistywind/iota-fud-answered-by-a-non-techie-enthusiast-2312325fddb6) bu Misty Wind (Aug 27, 2017)
+- [Equilibria in the Tangle](https://arxiv.org/pdf/1712.05385.pdf) by Serguei Popov, Olivia Saa, Paulo Finardi (Dec 15, 2017)
+- [Equilibria in the Tangle: Let Me Try to Explain](https://blog.iota.org/equilibria-in-the-tangle-let-me-try-to-explain-b22ad6f00c13) by Seguei Popov (Dec 18, 2017)
+- [Our Response to "A Cryptocurrency Without a Blockchain Has Been Built to Outperform Bitcoin"](https://www.media.mit.edu/posts/iota-response/) by Joi Ito (Dec 20, 2017)
 - [Official IOTA Foundation response to the digital currency initiative at the MIT Media Lab](https://blog.iota.org/official-iota-foundation-response-to-the-digital-currency-initiative-at-the-mit-media-lab-part-4-11fdccc9eb6d) by IOTA Foundation (Jan 2018)
-- [IOTA - full node incentive](http://www.tangleblog.com/2017/06/27/incentive-run-fullnode-iota/) by Limo (Jun 27, 2017)
-- [Everything you didn't know abou IOTA](https://medium.com/@mistywind/iota-fud-answered-by-a-non-techie-enthusiast-2312325fddb6) bu Misty Wind (Aug 27, 2017)
--[Equilibria in the Tangle](https://arxiv.org/pdf/1712.05385.pdf) by Serguei Popov, Olivia Saa, Paulo Finardi (Dec 15, 2017)
--[Equilibria in the Tangle: let me try to explain](https://blog.iota.org/equilibria-in-the-tangle-let-me-try-to-explain-b22ad6f00c13) by Seguei Popov (Dec 18, 2017)
+
 ## Consensus Algorithms
 ### General
 - [Miners Aren’t Your Friends](https://blog.keep.network/miners-arent-your-friends-cde9b6e0e9ac) by James Prestwich (Jan 11, 2018)
