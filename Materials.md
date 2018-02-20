@@ -85,6 +85,7 @@
 - [An (Institutional) Investor’s Take on Cryptoassets](https://medium.com/john-pfeffer/an-institutional-investors-take-on-cryptoassets-690421158904) by John Pfeffer (Dec 30, 2017)
 - [Our Process for Evaluating New Tokens](https://thecontrol.co/our-process-for-evaluating-new-tokens-4627ed97f500) by Nick Tomaino (Jan 8, 2018)
 - [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by Ryan Selkis (Jan 11, 2018)
+- [New Models for Utility Tokens](https://multicoin.capital/2018/02/13/new-models-utility-tokens/) by Kyle Samani (Feb 13, 2018)
 ### Cryptoasset Classification
 - [The Token Classification Framework](https://medium.com/untitled-inc/the-token-classification-framework-290b518eaab6) by Thomas Euler (Jan 18, 2018)
 
