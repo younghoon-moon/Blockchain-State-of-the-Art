@@ -41,7 +41,8 @@
 
 ## Cryptoeconomics & Incentive Design
 - [Introduction to Cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo) by Vitalik Buterin (Feb 23, 2017)
-
+- [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff) by Nick Tomaino (Jun 5, 2017)
+- [Cryptoeconomics 102](https://hackernoon.com/cryptoeconomics-102-a87d000e3938) by Gayatri Sarkar (Feb 13, 2018)
 ## Privacy
 
 ## Scalability
