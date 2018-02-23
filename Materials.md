@@ -111,6 +111,7 @@
 ## Other Interesting Topics
 ### stablecoin
 - [The Search for a Stable Cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/) by Vitalik Buterin (Nov 11, 2014)
+- [An Overview of Stablecoins](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/) by Myles Snider (Jan 17, 2018)
 - [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by Haseeb Qureshi (Feb 20, 2018)
 ### decentralized storage & computation
 
