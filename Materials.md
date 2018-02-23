@@ -83,6 +83,7 @@
 - [On Token Value](https://thecontrol.co/on-token-value-e61b10b6175e) by Nick Tomaino (Aug 7, 2017)
 - [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7) by Chris Burniske (Sep 25, 2017)
 - [On Medium-of-Exchange Token Valuations](http://vitalik.ca/general/2017/10/17/moe.html) by Vitalik Buterin (Oct 17, 2017)
+- [Understanding Token Velocity](https://multicoin.capital/2017/12/08/understanding-token-velocity/) by Kyle Samani (Dec 8, 2017)
 - [An (Institutional) Investor’s Take on Cryptoassets](https://medium.com/john-pfeffer/an-institutional-investors-take-on-cryptoassets-690421158904) by John Pfeffer (Dec 30, 2017)
 - [Our Process for Evaluating New Tokens](https://thecontrol.co/our-process-for-evaluating-new-tokens-4627ed97f500) by Nick Tomaino (Jan 8, 2018)
 - [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by Ryan Selkis (Jan 11, 2018)
@@ -110,6 +111,7 @@
 ## Other Interesting Topics
 ### stablecoin
 - [The Search for a Stable Cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/) by Vitalik Buterin (Nov 11, 2014)
+- [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by Haseeb Qureshi (Feb 20, 2018)
 ### decentralized storage & computation
 
 ## History, Economics, Politics, Philosophy and Sociology
