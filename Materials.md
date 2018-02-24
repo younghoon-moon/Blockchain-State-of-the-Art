@@ -99,6 +99,7 @@
 - [The Great Bitcoin Scaling Debate — A Timeline](https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada) by Daniel Morgan (Dec 4, 2017)
 - [Notes on Blockchain Governance](http://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin (Dec 17, 2017)
 - [The Spectrum of Funding Blockchain Development](https://twitter.com/FEhrsam/status/949355735321780225) by Fred Ehrsam (Jan 6, 2018)
+- [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) by Chris Dixon (Feb 19, 2018)
 
 ## Other Related Fields
 ### Cryptography
