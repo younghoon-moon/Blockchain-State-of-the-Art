@@ -90,6 +90,7 @@
 - [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by Ryan Selkis (Jan 11, 2018)
 - [New Models for Utility Tokens](https://multicoin.capital/2018/02/13/new-models-utility-tokens/) by Kyle Samani (Feb 13, 2018)
 - [The Fundamentals of Discount Tokens](https://blog.coinfund.io/the-fundamentals-of-discount-tokens-cc400c66198e) by Alex Felix (Feb 20, 2018)
+- [Valuation Models for Cryptocurrencies](https://hackernoon.com/valuation-models-for-cryptocurrencies-f03e9437786e) by Phil Glazer (Feb 23, 2018)
 - [MV=P…Que? Love and Circularity in the Time of Crypto](https://medium.com/@brian.koralewski/mv-p-que-love-and-circularity-in-the-time-of-crypto-2b84074fa2d2) by Brian Koralewski (Feb 24, 2018)
 ### Cryptoasset Classification
 - [The Token Classification Framework](https://medium.com/untitled-inc/the-token-classification-framework-290b518eaab6) by Thomas Euler (Jan 18, 2018)
