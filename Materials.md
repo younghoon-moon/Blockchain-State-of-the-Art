@@ -32,7 +32,7 @@
 ### Proof of Stake (PoS)
 - [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) by Vitalik Buterin (Dec 31, 2016)
-- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol] (https://eprint.iacr.org/2016/889.pdf) by Aggelos Kiayias, Alexander Russell, Bernardo David, Roman Oliynykov (Aug 21, 2017)
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf) by Aggelos Kiayias, Alexander Russell, Bernardo David, Roman Oliynykov (Aug 21, 2017)
 - [Ethereum Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) by Jon Choi (Oct 22, 2017)
 - [Casper the Friendly Finality Gadget](https://github.com/ethereum/research/blob/master/papers/casper-basics/casper_basics.pdf) by Vitalik Buterin, Virgil Griffith (last edited on Oct 29, 2017)
 - [Consensus Compare: Casper vs. Tendermint](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae) by Tendermint Official Blog (Nov 17, 2017)
