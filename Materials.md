@@ -41,10 +41,15 @@
 - [Paxos Lecture (Raft User Study)](https://www.youtube.com/watch?v=JEpsBg0AO6o&t=1871s&list=LLre8TRULW2293T7wD0ZQu3g&index=5) by John Ousterhout, Diego Ongaro (Aug 14, 2013)
 ### Others (e.g. PoI, PoST)
 
-## Cryptoeconomics & Incentive Design
+## Tokenization
+- [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) by Trent McConaghy (Mar 1, 2018)
+- [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) by Trent McConaghy (Mar 2, 2018)
+
+## Cryptoeconomics
 - [Introduction to Cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo) by Vitalik Buterin (Feb 23, 2017)
 - [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff) by Nick Tomaino (Jun 5, 2017)
 - [Cryptoeconomics 102](https://hackernoon.com/cryptoeconomics-102-a87d000e3938) by Gayatri Sarkar (Feb 13, 2018)
+
 ## Privacy
 
 ## Scalability
@@ -95,10 +100,6 @@
 - [MV=P…Que? Love and Circularity in the Time of Crypto](https://medium.com/@brian.koralewski/mv-p-que-love-and-circularity-in-the-time-of-crypto-2b84074fa2d2) by Brian Koralewski (Feb 24, 2018)
 ### Cryptoasset Classification
 - [The Token Classification Framework](https://medium.com/untitled-inc/the-token-classification-framework-290b518eaab6) by Thomas Euler (Jan 18, 2018)
-
-## Tokenization & Incentive Design
-- [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) by Trent McConaghy (Mar 1, 2018)
-- [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) by Trent McConaghy (Mar 2, 2018)
 
 ## Governance & Meta-consensus
 - [Tezos: A Self-Amending Crypto-Ledger Position Paper](https://www.tezos.com/static/papers/position_paper.pdf) by Arthur and Kathleen Breitman (Aug 3, 2014)
