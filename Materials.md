@@ -96,6 +96,10 @@
 ### Cryptoasset Classification
 - [The Token Classification Framework](https://medium.com/untitled-inc/the-token-classification-framework-290b518eaab6) by Thomas Euler (Jan 18, 2018)
 
+## Tokenization & Incentive Design
+- [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) by Trent McConaghy (Mar 1, 2018)
+- [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) by Trent McConaghy (Mar 2, 2018)
+
 ## Governance & Meta-consensus
 - [Tezos: A Self-Amending Crypto-Ledger Position Paper](https://www.tezos.com/static/papers/position_paper.pdf) by Arthur and Kathleen Breitman (Aug 3, 2014)
 - [Funding the Evolution of Blockchains](https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481) by Fred Ehrsam (Aug 25, 2017)
@@ -118,7 +122,7 @@
 ### stablecoin
 - [The Search for a Stable Cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/) by Vitalik Buterin (Nov 11, 2014)
 - [An Overview of Stablecoins](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/) by Myles Snider (Jan 17, 2018)
-- [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by Haseeb Qureshi (Feb 20, 2018)
+- [Stablecoins: Designing a Price-stable Cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by Haseeb Qureshi (Feb 20, 2018)
 ### decentralized storage & computation
 
 ## History, Economics, Politics, Philosophy and Sociology
