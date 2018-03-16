@@ -124,6 +124,9 @@
 - [The Search for a Stable Cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/) by Vitalik Buterin (Nov 11, 2014)
 - [An Overview of Stablecoins](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/) by Myles Snider (Jan 17, 2018)
 - [Stablecoins: Designing a Price-stable Cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by Haseeb Qureshi (Feb 20, 2018)
+### decentralized oracle
+- [The Augur White Paper: A Decentralized Oracle and Prediction Market Platform](https://medium.com/@AugurProject/the-augur-white-paper-a-decentralized-oracle-and-prediction-market-platform-ed8907401c48) by Augur (Jan 30, 2018)
+### decentralized exchange
 ### decentralized storage & computation
 
 ## History, Economics, Politics, Philosophy and Sociology
